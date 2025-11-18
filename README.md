@@ -72,9 +72,7 @@ Ao longo do processo, a inteligência artificial ajudou a estruturar o pensament
 **Maria Luíza Marques Mendes Miranda**  
 Estudante de Engenharia de Software | Entusiasta em IA e UX Design  
 📍 Anápolis – GO  
-📧 contato: [seu e-mail]  
-🔗 [LinkedIn](#)
-
+📧 contato: mendeslulu2@gmail.com  
 ---
 
 ## 🏁 Licença
