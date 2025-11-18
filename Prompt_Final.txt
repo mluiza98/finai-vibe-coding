@@ -1,0 +1,5 @@
+Quero criar um aplicativo de organização de finanças pessoais com IA chamado FinAI. 
+Ele deve conversar com o usuário em linguagem natural, analisar despesas, gerar planos automáticos de economia e enviar mensagens motivacionais. 
+Descreva o PRD, os fluxos de telas, as funcionalidades, os agentes de IA e um plano de MVP. 
+Use o estilo visual e linguagem semelhantes a aplicativos como Nubank e Inter. 
+O app deve ter um chatbot principal (FinBuddy) e uma IA de planejamento financeiro (SmartPlanner).
